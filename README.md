@@ -1,6 +1,6 @@
 # TremorVideo-Android-SDK
-SDK Version: 3.12.0
-Release Date: TBD
+- SDK Version: 3.12.0
+- Release Date: TBD
 
 # To Download
 Please contact the publisher team at Tremor Video to download the latest SDK. SDK 3.12 contains
