@@ -13,7 +13,7 @@ Please contact the publisher team at Tremor Video to download the latest SDK. SD
 - New ad formats are added. Integrating this SDK will help improving your fill rate.
 
 # Android OS and Play Service Support
-- Android OS 4.0.3 - 4.0.4 (API Level 15) is he minimum OS version supported from Android SDK v3.12.0
+- Android OS 4.0.3 - 4.0.4 (API Level 15) is the minimum OS version supported from Android SDK v3.12.0
 - Android SDK 3.12.0 supports Google Play Service revion 27+ (version 8.3+)
 
 # SDK integration
