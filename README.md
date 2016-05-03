@@ -10,7 +10,8 @@ Please contact the publisher team at Tremor Video to download the latest SDK. SD
 
 # New in SDK 3.12.0
 - Tremor Video’s SDK is provided as an aar instead of a jar. Please follow SDK integration note below to update installation of the Tremor SDK
-- New ad formats are added. Integrating this SDK will help improving your fill rate.
+- Added new ad formats and MOAT viewability measurement. Integrating this SDK will help improving your fill rate.
+- Bug fixes
 
 # Android OS and Play Service Support
 - Android OS 4.0.3 - 4.0.4 (API Level 15) is the minimum OS version supported from Android SDK v3.12.0
