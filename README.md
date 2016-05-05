@@ -3,7 +3,7 @@
 - Release Date: April 20th, 2016
 
 # To Download
-Please contact the publisher team at Tremor Video to download the latest SDK. SDK 3.12 contains
+Please [contact the publisher team](mailto: PublisherManagement@Tremorvideo.com)  at Tremor Video to download the latest SDK. SDK 3.12 contains
 - **Lib** which includes TremorVideo library Tremorvideo.aar
 - **Doc** which includes Tremor Video Android SDK.pdf (SDK integration documentation)
 - **TremorVideoExample** which includes a sample app
