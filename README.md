@@ -33,4 +33,4 @@ Tremor Video SDK requires these permission in order to work properly to maxiumiz
 - [Tremor Video Android API Doc] (http://tremorvideomobile.github.io/android/javadoc/) contains details about each API definitions.
 
 # SDK Integration through mediaiton
-Tremor supports Android mediation throught FreeWheel, Google AdMob/DFP, Fyber, Mopub (as a custom network), [Android SDK Medaition](https://github.com/TremorVideoMobile/TremorVideo-Android-SDK/wiki/Android-SDK-Mediation) contains all the details on how to integrate Tremor SDK through the mediaiton. If you integrate Tremor SDK through mediation, you should always go through this documentation to know the requirement to use Tremor SDK.
+Tremor supports Android mediation including FreeWheel, Google AdMob/DFP, Fyber, Mopub (as a custom network), [Android SDK Medaition](https://github.com/TremorVideoMobile/TremorVideo-Android-SDK/wiki/Android-SDK-Mediation) contains all the details on how to integrate Tremor SDK through the mediaiton. If you integrate Tremor SDK through mediation, you should always go through this documentation to know the requirements to configure your applicaton in order to use Tremor SDK.
