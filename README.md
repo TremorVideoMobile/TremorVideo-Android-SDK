@@ -27,7 +27,7 @@ Tremor Video SDK requires these permission in order to work properly to maxiumiz
 - com.google.android.providers.gsf.permission.READ_GSERVICES
 
 
-# SDK integration
+# SDK Integration
 - If you have already integrated Tremor iOS SDK in your applications, please review [Update from Earlier Versions](https://github.com/TremorVideoMobile/TremorVideo-Android-SDK/wiki/Updating-from-Earlier-Versions) to update your SDK to the latest SDK.
 - If you are new users of Tremor Android SDK, please review [Android Library Integration] (https://github.com/TremorVideoMobile/TremorVideo-Android-SDK/wiki/Android-Library-Integration) which contains detailed integration instructions.
 - [Tremor Video Android API Doc] (http://tremorvideomobile.github.io/android/javadoc/) contains details about each API definitions.
