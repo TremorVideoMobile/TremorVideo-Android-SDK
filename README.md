@@ -1,6 +1,6 @@
 # TremorVideo-Android-SDK
-- SDK Version: 3.12.0
-- Release Date: April 20th, 2016
+- SDK Version: 3.12.1
+- Release Date: May 16th, 2016
 - Release Notes: Please visit [Android SDK Releases Notes](https://github.com/TremorVideoMobile/TremorVideo-Android-SDK/wiki/Android-SDK-Release-Notes) to check details of each Android SDK release.)
 
 # To Download
