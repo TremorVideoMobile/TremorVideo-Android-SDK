@@ -23,10 +23,9 @@ Please [contact the publisher team](mailto: PublisherManagement@Tremorvideo.com)
 Tremor Video SDK requires these permission in order to work properly to maxiumize your revenue.
 - android.permission.INTERNET
 - android.permission.ACCESS_NETWORK_STATE
-- android.permission.READ_PHONE_STATE
 - android.permission.WRITE_EXTERNAL_STORAGE
-- com.google.android.providers.gsf.permission.READ_GSERVICES
 
+Adding the optional permissions listed in [Android Library Integration] (https://github.com/TremorVideoMobile/TremorVideo-Android-SDK/wiki/Android-Library-Integration) would help you improve fill rate and user experience.
 
 # SDK Integration
 - If you have already integrated Tremor iOS SDK in your applications, please review [Update from Earlier Versions](https://github.com/TremorVideoMobile/TremorVideo-Android-SDK/wiki/Updating-from-Earlier-Versions) to update your SDK to the latest SDK.
