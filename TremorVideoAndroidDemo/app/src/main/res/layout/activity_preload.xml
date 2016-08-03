@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.tremorvideo.sdk.tremorvideodemo.PreloadActivity"
+    android:background="#666666">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Load Ad"
+        android:id="@+id/loadAd"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:background="#CCCCCC"
+        android:paddingLeft="90dp"
+        android:paddingRight="90dp" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show Ad"
+        android:id="@+id/showAd"
+        android:background="#CCCCCC"
+        android:paddingLeft="90dp"
+        android:paddingRight="90dp"
+        android:layout_marginTop="30dp"
+        android:layout_below="@+id/loadAd"
+        android:layout_centerHorizontal="true" />
+
+
+
+    <ScrollView
+        android:fillViewport="true"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/scrollView"
+        android:layout_below="@+id/showAd"
+        android:longClickable="false"
+        android:transcriptMode="alwaysScroll"
+        android:layout_centerHorizontal="true"
+        android:scrollbarAlwaysDrawVerticalTrack="true"
+        android:scrollbars="vertical"
+        android:scrollbarStyle="insideInset"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="40dp">
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:background="#CCCCCC"
+        android:id="@+id/logMessageTextView"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:minWidth="140dp"
+        />
+    </ScrollView>
+
+</RelativeLayout>

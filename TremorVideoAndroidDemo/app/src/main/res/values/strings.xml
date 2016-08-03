@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TremorVideoDemo</string>
+    <string name="title_activity_preload">PreloadActivity</string>
+    <string name="title_activity_show_back_to_back">ShowBackToBackActivity</string>
+</resources>
