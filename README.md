@@ -32,5 +32,5 @@ Adding the optional permissions listed in [Android Library Integration] (https:/
 - [Tremor Video Android API Doc] (http://tremorvideomobile.github.io/android/javadoc/) contains details about each API definitions.
 - This project also includes a sample which demostrates how to integration Android SDK into your application.
 
-# SDK Integration through mediaiton
+# SDK Integration through mediation
 Tremor supports Android mediation including FreeWheel, Google AdMob/DFP, Fyber, Mopub (as a custom network), [Android SDK Mediation](https://github.com/TremorVideoMobile/TremorVideo-Android-SDK/wiki/Android-SDK-Mediation) contains all the details on how to integrate Tremor SDK through the mediaiton. If you integrate Tremor SDK through mediation, you should always go through this documentation to know the requirements to configure your applicaton in order to use Tremor SDK.
