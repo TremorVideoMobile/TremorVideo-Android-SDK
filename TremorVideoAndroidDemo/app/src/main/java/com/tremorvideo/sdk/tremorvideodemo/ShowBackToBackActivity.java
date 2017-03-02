@@ -249,4 +249,9 @@ public class ShowBackToBackActivity extends AppCompatActivity implements TremorA
     public void leftApp() {
 
     }
+
+    @Override
+    public void sdkDestroyed() {
+
+    }
 }

@@ -230,4 +230,9 @@ public class PreloadActivity extends AppCompatActivity implements TremorAdStateL
     public void leftApp() {
 
     }
+
+    @Override
+    public void sdkDestroyed() {
+
+    }
 }

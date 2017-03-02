@@ -241,4 +241,9 @@ public class ShowImmediatelyActivity extends AppCompatActivity implements Tremor
     public void leftApp() {
 
     }
+
+    @Override
+    public void sdkDestroyed() {
+
+    }
 }
