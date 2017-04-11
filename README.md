@@ -1,17 +1,16 @@
 # TremorVideo-Android-SDK
-- SDK Version: 3.13.0
-- Release Date: September 19, 2016
+- SDK Version: 3.14.0
+- Release Date: April 12, 2017
 - Release Notes: Please visit [Android SDK Releases Notes](https://github.com/TremorVideoMobile/TremorVideo-Android-SDK/wiki/Android-SDK-Release-Notes) to check details of each Android SDK release.)
 
 # To Download
-Please [contact the publisher team](mailto: PublisherManagement@Tremorvideo.com)  at Tremor Video to download the latest SDK. SDK 3.13 contains
+Please [contact the publisher team](mailto: PublisherManagement@Tremorvideo.com)  at Tremor Video to download the latest SDK. SDK 3.14 contains
 - **Lib** which includes TremorVideo library Tremorvideo.aar
 - **Doc** which includes Tremor Video Android SDK.pdf (SDK integration documentation)
 - **TremorVideoExample** which includes a sample app
 
-# New in SDK 3.13.0
-- Support for Android N.
-- Bug fixes
+# New in SDK 3.14.0
+- New ad viewability measurements
 
 # Android OS and Play Service Support
 - Android OS 4.1 (API Level 16) is the minimum OS version supported from Android SDK v3.12.0
