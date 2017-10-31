@@ -1,6 +1,6 @@
 # TremorVideo-Android-SDK
-- SDK Version: 3.14.1
-- Release Date: July 12, 2017
+- SDK Version: 3.15.0
+- Release Date: November 1, 2017
 - Release Notes: Please visit [Android SDK Releases Notes](https://github.com/TremorVideoMobile/TremorVideo-Android-SDK/wiki/Android-SDK-Release-Notes) to check details of each Android SDK release.
 
 # To Download
@@ -9,8 +9,8 @@ Please [contact the publisher team](mailto: PublisherManagement@Tremorvideo.com)
 - **Doc** which includes Tremor Video Android SDK.pdf (SDK integration documentation)
 - **TremorVideoExample** which includes a sample app
 
-# New in SDK 3.14.1
-- Additional IAS ad viewability measurements
+# New in SDK 3.15.0
+- VPAID 2.0 is now supported
 
 # Android OS and Play Service Support
 - Android OS 4.1 (API Level 16) is the minimum OS version supported from Android SDK v3.12.0
