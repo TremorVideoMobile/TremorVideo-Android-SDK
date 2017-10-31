@@ -13,7 +13,7 @@ Please [contact the publisher team](mailto: PublisherManagement@Tremorvideo.com)
 - VPAID 2.0 is now supported
 
 # Android OS and Play Service Support
-- Android OS 4.1 (API Level 16) is the minimum OS version supported from Android SDK v3.12.0
+- Android OS 4.4 (API Level 19) is the minimum OS version supported from Android SDK v3.15.0
 - Android SDK 3.13.0 supports Google Play Service revision 27+ (version 8.3+)
 - Android SDK requires the use of Google Play Services. Please read this page for more details about setting up Play Services for your project: http://developer.android.com/google/play-services/setup.html
 
