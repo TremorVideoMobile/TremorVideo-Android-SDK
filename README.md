@@ -4,7 +4,7 @@
 - Release Notes: Please visit [Android SDK Releases Notes](https://github.com/TremorVideoMobile/TremorVideo-Android-SDK/wiki/Android-SDK-Release-Notes) to check details of each Android SDK release.
 
 # To Download
-Please contact the [publisher team](PublisherManagement@Tremorvideo.com)  at Tremor Video to download the latest SDK. SDK 3.15.0 contains
+Please contact the [publisher team](mailto:PublisherManagement@Tremorvideo.com)  at Tremor Video to download the latest SDK. SDK 3.15.0 contains
 - **Lib** which includes TremorVideo library Tremorvideo.aar
 - **Doc** which includes Tremor Video Android SDK.pdf (SDK integration documentation)
 - **TremorVideoExample** which includes a sample app
