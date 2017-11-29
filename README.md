@@ -11,6 +11,7 @@ Please contact the [publisher team](mailto:PublisherManagement@Tremorvideo.com) 
 
 # New in SDK 3.15.0
 - VPAID 2.0 (with Vast 2.0) is now supported
+- Newer implementation of the SSL libraries. 
 
 # Android OS and Play Service Support
 - Android OS 4.4 (API Level 19) is the minimum OS version supported from Android SDK v3.15.0
